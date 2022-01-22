@@ -1,0 +1,2 @@
+# notyourfav
+hidecontrol
